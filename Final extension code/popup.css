@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+p, h1{
+    color: white
+}
+
+textarea {
+    background-color: black;
+    color: white;
+}

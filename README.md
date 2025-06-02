@@ -13,7 +13,7 @@ Go to chrome://extensions/.
 At the top right, turn on Developer mode.
 Click Load unpacked.
 Find and select the app or extension folder.
-Open a new tab in Chromeand then click Apps and then click the app or extension. Make sure it loads and works correctly.
+Open a new tab in Chrome and then click Apps and then click the app or extension. Make sure it loads and works correctly.
 If needed, make changes in the manifest.json file, host the app folder, and retest it. Repeat until the app or extension works correctly.
 Troubleshoot problems with your app or extension using Chrome logs:
 

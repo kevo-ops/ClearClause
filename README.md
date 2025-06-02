@@ -1,4 +1,4 @@
-This Repository contains the files for both the Chrome extention (extension) and the files that are used in RunPod (docker_stuff) 
+This Repository contains the files for both the Chrome extention (final extension) and the files that are used in RunPod 
 
 When the extension is available in the chrome webstore it may be used by simply installing it. Otherwise download the extension files and follow this tutorial (taken from https://support.google.com/chrome/a/answer/2714278?hl=en):
 

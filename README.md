@@ -17,5 +17,7 @@ Open a new tab in Chrome and then click Apps and then click the app or extension
 If needed, make changes in the manifest.json file, host the app folder, and retest it. Repeat until the app or extension works correctly.
 Troubleshoot problems with your app or extension using Chrome logs:
 
-In Chrome, click More and thenMore tools and then Developer Tools.
+In Chrome, click More and then More tools and then Developer Tools.
 Verify your information. For example, check for the correct the app ID and version number.
+
+This privacy policy from the U. S. department of state tends to be good for testing: https://www.state.gov/privacy-policy

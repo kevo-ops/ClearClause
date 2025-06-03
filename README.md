@@ -1,3 +1,5 @@
+ClearClause
+
 ClearClause is a Chrome extension designed to address the readability and accessibility challenges presented by online privacy policies. With data showing that a large percentage of internet users either do not read or cannot understand these documents, ClearClause offers a solution: automated, concise, and reliable summaries of privacy policies using modern natural language processing techniques. The system identifies relevant documents on web pages, extracts their content, and generates user-friendly summaries using the BART model. This project aims to reduce privacy fatigue, inform users, and improve online transparency by making critical information more accessible.
 
 

@@ -23,4 +23,4 @@ Troubleshoot problems with your app or extension using Chrome logs:
 In Chrome, click More and then More tools and then Developer Tools.
 Verify your information. For example, check for the correct the app ID and version number.
 
-This privacy policy from the U. S. department of state tends to be good for testing: https://www.state.gov/privacy-policy
+This privacy policy from the U. S. Department of State tends to be good for testing: https://www.state.gov/privacy-policy

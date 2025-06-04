@@ -5,6 +5,8 @@ ClearClause is a Chrome extension designed to address the readability and access
 
 This Repository contains the files for both the Chrome extention (final extension) and the files that are used in RunPod.
 
+HOW TO RUN:
+
 When the extension is available in the chrome webstore it may be used by simply installing it. Search "ClearClause". Otherwise, download the extension files and follow this tutorial (taken from https://support.google.com/chrome/a/answer/2714278?hl=en):
 
 Step 2: Test the app or extension
